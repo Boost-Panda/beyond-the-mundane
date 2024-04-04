@@ -1,4 +1,4 @@
-# # Beyond the Mundane: Leveraging LLMs for Peak Performance in Project and Engineering Management
+# Beyond the Mundane: Leveraging LLMs for Peak Performance in Project and Engineering Management
 
 ## Introduction
 
